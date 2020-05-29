@@ -15,6 +15,7 @@ const itemDetailsProxy = createProxyMiddleware({target: 'http://localhost:3002',
 
 // app.use('/api/items/:id', singleItemProxy);
 app.use('/items/:id', itemDetailsProxy);
+app.use('/items/', itemDetailsProxy);
 // app.use('/api/related_products/:id', relatedItemsProxy);
 // app.use('/api/allreviews', reviewsProxy);
 
