@@ -24,4 +24,4 @@ coverage
 build/
 dist/
 
-item-details-proxy/newrelic.js
+item-details-proxy/newrelickey.js
