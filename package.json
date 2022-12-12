@@ -20,7 +20,7 @@
   "homepage": "https://github.com/hrr45-fec8-legolas/item-details-proxy#readme",
   "dependencies": {
     "artillery": "^1.6.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "faker": "^4.1.0",
     "http-proxy-middleware": "^1.0.3",
     "newrelic": "^6.8.0",
